@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b3afd8ae-9590-4bed-970e-17080fc3335b" alt="Banner">
 </p>
 <p align="center">
-  <a href="https://websim.ai/@cidy"><img alt="Static Badge" src="https://img.shields.io/badge/Helper-0?style=for-the-badge&label=Websim&labelColor=blue&color=darkblue"></a>
+  <a href="https://discord.com/invite/SyHegkDmeF"><img alt="Static Badge" src="https://img.shields.io/badge/Developer-0?style=for-the-badge&label=Swarm%20FM&labelColor=blue&color=darkblue"></a>
   <a href="https://premid.app/users/1255528657058009088"><img alt="Static Badge" src="https://img.shields.io/badge/1%20Presence-0?style=for-the-badge&label=Premid&labelColor=blue&color=darkblue"></a>
 </p>
 <p align="center">
