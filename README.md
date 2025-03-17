@@ -12,7 +12,7 @@
   Who am I?
 </h3>
 <p>
-  I am a shark that is stuck in a Digital Ocean trying to break free of the ocean barriers. I'm a RTC Member and Developer of multipule languges.
+  I am a shark that is stuck in a Digital Ocean trying to break free of the ocean barriers. I'm a Freelancer Developer of multipule languges.
 </p>
 <h3 align="right">
   Why did you become a Developer?
