@@ -9,16 +9,16 @@
   - - - - - - - - - - - - - - - - - - - - - - - -
 </p>
 <h3>
-  Who am I?
+  Where am I?
 </h3>
 <p>
-  I am a shark that is stuck in a Digital Ocean trying to break free of the ocean barriers. I'm a Freelancer Developer of multipule languges.
+  Do I need to tell my loved ones why I haven't spoken to them or should I let them stew in worry?
 </p>
 <h3 align="right">
-  Why did you become a Developer?
+  Why did I go radio silent?
 </h3>
 <p align="right">
-  I became a developer as I had a passion in learning new things and making ideas into reality.
+  I had school, right? Please tell me that's the reason why…
 </p>
 <h3>
   What I've learned:
