@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/b3afd8ae-9590-4bed-970e-17080fc3335b" alt="Banner">
 </p>
 <p align="center">
-  <a href="https://l.sbvr.us/sfm"><img alt="Static Badge" src="https://img.shields.io/badge/Developer-0?style=for-the-badge&label=Swarm%20FM&labelColor=blue&color=darkblue"></a>
   <a href="https://premid.app/users/1255528657058009088"><img alt="Static Badge" src="https://img.shields.io/badge/1%20Presence-0?style=for-the-badge&label=Premid&labelColor=blue&color=darkblue"></a>
 </p>
 <p align="center">
@@ -24,19 +23,19 @@
   What I've learned:
 </h3>
 <p>
-  <img alt="WhatILearned" src="https://skillicons.dev/icons?i=nodejs,py,html,css,js,tauri,bash,discordjs,express,raspberrypi,workers">
+  <img alt="WhatILearned" src="https://skillicons.dev/icons?i=nodejs,py,html,css,js,tauri,bash,discordjs,express,raspberrypi,workers,react">
 </p>
 <h3>
   What I'm TRYING to learn:
 </h3>
 <p>
-  <img alt="WhatIAmTryingToLearn" src="https://skillicons.dev/icons?i=lua,react,nextjs,docker,flutter,svelte,ts">
+  <img alt="WhatIAmTryingToLearn" src="https://skillicons.dev/icons?i=lua,nextjs,docker,flutter,svelte,ts">
 </p>
 <h3>
   Primary Use of Development
 </h3>
 <p>
-  <img alt="Primary Use of Development" src="https://skillicons.dev/icons?i=vscode,cloudflare,bots,github,gmail,npm,windows,linux">
+  <img alt="Primary Use of Development" src="https://skillicons.dev/icons?i=vscode,cloudflare,bots,github,gmail,npm,windows,linux,replit">
 </p>
 <p align="center">
   - - - - - - - - - - - - - - - - - - - - - - - -
