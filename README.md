@@ -36,23 +36,4 @@
 </h3>
 <p>
   <img alt="Primary Use of Development" src="https://skillicons.dev/icons?i=vscode,cloudflare,bots,github,gmail,npm,windows,linux,replit">
-</p>
-<p align="center">
-  - - - - - - - - - - - - - - - - - - - - - - - -
-</p>
-<h3 align="center">
-  Fun Widgets to Look At:
-</h3>
-<h5 align="center">
-  Spotify (Fire Beats??)
-</h5>
-<p align="center">
- <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317gs2csg6gnwvvsv5zed2a5fb34&cover_image=false&theme=default&show_offline=false&background_color=352727&interchange=false&bar_color=70ffcf&bar_color_cover=false" alt="Spotify"> 
-</p>
-<h5 align="center">
-  Discord Statuses:
-</h5>
-<h5 align="center">
-  <img src="https://lanyard.cnrad.dev/api/1142468315332227213" alt="Main Account Discord">
-  <img src="https://lanyard.cnrad.dev/api/1255528657058009088" alt="Alt Account Discord">
-</h5>
+</p
